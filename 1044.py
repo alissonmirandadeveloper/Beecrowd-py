@@ -1,3 +1,4 @@
+#multiplos
 v = input().split()
 n1 = int(v[0])
 n2 = int(v[1])
